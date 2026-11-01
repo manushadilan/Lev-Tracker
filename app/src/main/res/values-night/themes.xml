@@ -1,0 +1,42 @@
+<resources>
+    <style name="Scheme0" parent="">
+        <item name="colorPrimary">#BCAAA4</item>
+        <item name="colorOnPrimary">#3E2723</item>
+        <item name="colorPrimaryContainer">#5D4037</item>
+        <item name="colorOnPrimaryContainer">#EFEBE9</item>
+        <item name="colorSecondaryContainer">#4E342E</item>
+        <item name="colorOnSecondaryContainer">#EFEBE9</item>
+    </style>
+    <style name="Scheme1" parent="">
+        <item name="colorPrimary">#A5D6A7</item>
+        <item name="colorOnPrimary">#1B5E20</item>
+        <item name="colorPrimaryContainer">#2E7D32</item>
+        <item name="colorOnPrimaryContainer">#E8F5E9</item>
+        <item name="colorSecondaryContainer">#1B5E20</item>
+        <item name="colorOnSecondaryContainer">#E8F5E9</item>
+    </style>
+    <style name="Scheme2" parent="">
+        <item name="colorPrimary">#90CAF9</item>
+        <item name="colorOnPrimary">#0D47A1</item>
+        <item name="colorPrimaryContainer">#1565C0</item>
+        <item name="colorOnPrimaryContainer">#E3F2FD</item>
+        <item name="colorSecondaryContainer">#0D47A1</item>
+        <item name="colorOnSecondaryContainer">#E3F2FD</item>
+    </style>
+    <style name="Scheme3" parent="">
+        <item name="colorPrimary">#CE93D8</item>
+        <item name="colorOnPrimary">#4A148C</item>
+        <item name="colorPrimaryContainer">#7B1FA2</item>
+        <item name="colorOnPrimaryContainer">#F3E5F5</item>
+        <item name="colorSecondaryContainer">#4A148C</item>
+        <item name="colorOnSecondaryContainer">#F3E5F5</item>
+    </style>
+    <style name="Scheme4" parent="">
+        <item name="colorPrimary">#EF9A9A</item>
+        <item name="colorOnPrimary">#B71C1C</item>
+        <item name="colorPrimaryContainer">#C62828</item>
+        <item name="colorOnPrimaryContainer">#FFEBEE</item>
+        <item name="colorSecondaryContainer">#B71C1C</item>
+        <item name="colorOnSecondaryContainer">#FFEBEE</item>
+    </style>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <style name="Theme.App" parent="Theme.Material3.DayNight.NoActionBar"/>
+    <style name="Scheme0" parent="">
+        <item name="colorPrimary">#6D4C41</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#D7CCC8</item>
+        <item name="colorOnPrimaryContainer">#3E2723</item>
+        <item name="colorSecondaryContainer">#EFEBE9</item>
+        <item name="colorOnSecondaryContainer">#3E2723</item>
+    </style>
+    <style name="Scheme1" parent="">
+        <item name="colorPrimary">#2E7D32</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#C8E6C9</item>
+        <item name="colorOnPrimaryContainer">#1B5E20</item>
+        <item name="colorSecondaryContainer">#E8F5E9</item>
+        <item name="colorOnSecondaryContainer">#1B5E20</item>
+    </style>
+    <style name="Scheme2" parent="">
+        <item name="colorPrimary">#1565C0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#BBDEFB</item>
+        <item name="colorOnPrimaryContainer">#0D47A1</item>
+        <item name="colorSecondaryContainer">#E3F2FD</item>
+        <item name="colorOnSecondaryContainer">#0D47A1</item>
+    </style>
+    <style name="Scheme3" parent="">
+        <item name="colorPrimary">#6A1B9A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#E1BEE7</item>
+        <item name="colorOnPrimaryContainer">#4A148C</item>
+        <item name="colorSecondaryContainer">#F3E5F5</item>
+        <item name="colorOnSecondaryContainer">#4A148C</item>
+    </style>
+    <style name="Scheme4" parent="">
+        <item name="colorPrimary">#C62828</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#FFCDD2</item>
+        <item name="colorOnPrimaryContainer">#B71C1C</item>
+        <item name="colorSecondaryContainer">#FFEBEE</item>
+        <item name="colorOnSecondaryContainer">#B71C1C</item>
+    </style>
+</resources>

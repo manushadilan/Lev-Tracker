@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Lev-tracker</string>
+    <string name="add_leave">Add leave</string>
+    <string name="edit_leave">Edit leave</string>
+    <string name="history">Leave history (tap to edit, long-press to delete)</string>
+    <string name="all_months">All months</string>
+    <string name="month">Month</string>
+    <string name="delete_q">Delete this leave?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="no_reason">No reason</string>
+    <string name="days">days</string>
+    <string name="entries">entries</string>
+    <string name="total">Total</string>
+    <string name="balance_left">balance %1$s of %2$s left (year)</string>
+    <string name="from">From: </string>
+    <string name="to">To: </string>
+    <string name="date">Date: </string>
+    <string name="category">Category</string>
+    <string name="reason_opt">Reason (optional)</string>
+    <string name="balances_title">Yearly leave balances</string>
+    <string name="balances_hint">%1$s – days per year (blank = no limit)</string>
+    <string name="exported">Exported</string>
+    <string name="skipped">%1$d day(s) skipped – a leave already exists on that date</string>
+    <string name="menu_balances">Set yearly balances</string>
+    <string name="menu_csv">Export CSV</string>
+    <string name="menu_pdf">Export PDF</string>
+    <string name="menu_graph">Graph</string>
+    <string name="language">Language</string>
+    <string name="graph_title">Monthly leaves</string>
+    <string name="graph_legend">Bars: leave days in each month</string>
+    <string name="casual">Casual</string>
+    <string name="sick">Sick</string>
+    <string name="duty">Duty</string>
+    <string name="half_day">Half Day</string>
+    <string name="short_leave">Short Leave</string>
+    <string name="multi_days">Add multiple days</string>
+    <string name="max_days">Maximum 10 days at once</string>
+    <string name="tab_list">📋 List</string>
+    <string name="tab_calendar">📅 Calendar</string>
+    <string name="menu_import">Import CSV</string>
+    <string name="import_done">Imported %1$d, skipped %2$d (duplicates, future dates, short-leave limit or invalid rows)</string>
+    <string name="short_limit">Short leave limit reached: maximum %1$d per month</string>
+    <string name="theme">Theme</string>
+    <string name="color_scheme">Color scheme</string>
+    <string-array name="themes">
+        <item>📱 System default</item>
+        <item>☀️ Light</item>
+        <item>🌙 Dark</item>
+    </string-array>
+    <string-array name="schemes">
+        <item>🟤 Brown</item>
+        <item>🟢 Green</item>
+        <item>🔵 Blue</item>
+        <item>🟣 Purple</item>
+        <item>🔴 Red</item>
+    </string-array>
+    <string name="menu_yearly">Yearly totals</string>
+    <string name="menu_data">Import / Export</string>
+    <string name="menu_appearance">Appearance</string>
+    <string name="m_theme">Theme</string>
+    <string name="m_scheme">Color scheme</string>
+    <string name="m_language">Language</string>
+    <string name="yearly_title">Yearly leave totals</string>
+    <string name="no_data">No leaves recorded yet</string>
+    <string name="weekend">Leaves can\'t be added on Saturday or Sunday</string>
+</resources>

@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Lev-tracker</string>
+    <string name="add_leave">නිවාඩුවක් එක් කරන්න</string>
+    <string name="edit_leave">නිවාඩුව සංස්කරණය</string>
+    <string name="history">නිවාඩු ඉතිහාසය (සංස්කරණයට ඔබන්න, මකන්න දිගටම ඔබන්න)</string>
+    <string name="all_months">සියලුම මාස</string>
+    <string name="month">මාසය</string>
+    <string name="delete_q">මෙම නිවාඩුව මකා දමන්නද?</string>
+    <string name="delete">මකන්න</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="save">සුරකින්න</string>
+    <string name="close">වසන්න</string>
+    <string name="no_reason">හේතුවක් නැත</string>
+    <string name="days">දින</string>
+    <string name="entries">සටහන්</string>
+    <string name="total">මුළු</string>
+    <string name="balance_left">ශේෂය %2$s න් %1$s ඉතිරියි (වසර)</string>
+    <string name="from">සිට: </string>
+    <string name="to">දක්වා: </string>
+    <string name="date">දිනය: </string>
+    <string name="category">වර්ගය</string>
+    <string name="reason_opt">හේතුව (අත්‍යවශ්‍ය නොවේ)</string>
+    <string name="balances_title">වාර්ෂික නිවාඩු ශේෂ</string>
+    <string name="balances_hint">%1$s – වසරකට දින (හිස්නම් සීමාවක් නැත)</string>
+    <string name="exported">අපනයනය කරන ලදී</string>
+    <string name="skipped">දින %1$d ක් මඟ හැරියේය – එම දිනයේ දැනටමත් නිවාඩුවක් ඇත</string>
+    <string name="menu_balances">වාර්ෂික ශේෂ සකසන්න</string>
+    <string name="menu_csv">CSV අපනයනය</string>
+    <string name="menu_pdf">PDF අපනයනය</string>
+    <string name="menu_graph">ප්‍රස්තාරය</string>
+    <string name="language">භාෂාව</string>
+    <string name="graph_title">මාසික නිවාඩු</string>
+    <string name="graph_legend">තීරු: එක් එක් මාසයේ නිවාඩු දින</string>
+    <string name="casual">අනියම්</string>
+    <string name="sick">රෝගාබාධ</string>
+    <string name="duty">රාජකාරි</string>
+    <string name="half_day">අර්ධ දිනය</string>
+    <string name="short_leave">කෙටි නිවාඩුව</string>
+    <string name="multi_days">දින කිහිපයක් එක් කරන්න</string>
+    <string name="max_days">එකවර උපරිම දින 10 කි</string>
+    <string name="tab_list">📋 ලැයිස්තුව</string>
+    <string name="tab_calendar">📅 දින දර්ශනය</string>
+    <string name="menu_import">CSV ආයාත කරන්න</string>
+    <string name="import_done">ආයාත කළේ %1$d, මඟ හැරියේ %2$d (අනුපිටපත්, අනාගත දින, කෙටි නිවාඩු සීමාව හෝ වලංගු නොවන පේළි)</string>
+    <string name="short_limit">කෙටි නිවාඩු සීමාව ළඟා විය: මසකට උපරිම %1$d කි</string>
+    <string name="theme">තේමාව</string>
+    <string name="color_scheme">වර්ණ සැලසුම</string>
+    <string-array name="themes">
+        <item>📱 පද්ධති පෙරනිමිය</item>
+        <item>☀️ ලා</item>
+        <item>🌙 අඳුරු</item>
+    </string-array>
+    <string-array name="schemes">
+        <item>🟤 දුඹුරු</item>
+        <item>🟢 කොළ</item>
+        <item>🔵 නිල්</item>
+        <item>🟣 දම්</item>
+        <item>🔴 රතු</item>
+    </string-array>
+    <string name="menu_yearly">වාර්ෂික එකතු</string>
+    <string name="menu_data">ආයාත / අපනයන</string>
+    <string name="menu_appearance">පෙනුම</string>
+    <string name="m_theme">තේමාව</string>
+    <string name="m_scheme">වර්ණ සැලසුම</string>
+    <string name="m_language">භාෂාව</string>
+    <string name="yearly_title">වාර්ෂික නිවාඩු එකතු</string>
+    <string name="no_data">තවමත් නිවාඩු සටහන් කර නැත</string>
+    <string name="weekend">සෙනසුරාදා හෝ ඉරිදා නිවාඩු එක් කළ නොහැක</string>
+</resources>
